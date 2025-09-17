@@ -11,6 +11,14 @@
 
 ---
 
+### Monad Dev Journey 🚀
+- 🔭 Exploring Monad Testnet & ecosystem
+- 📝 Writing notes & tutorials in [monad-experiments](https://github.com/MDRomdoni/monad-experiments)
+- 🤝 Open to collaboration on Monad-related projects
+
+
+---
+
 ### 📌 Current Focus
 - 🔭 Exploring **Monad Testnet** and Web3 development  
 - 📖 Building small projects & writing notes in GitHub repos  
